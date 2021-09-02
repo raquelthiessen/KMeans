@@ -20,3 +20,8 @@ python3 part_2/demonstration.py
 ```
 
 All the graphs that result from running these scripts are in [Graphs](Graphs)
+
+
+## Report
+
+For more information you can view the [report](report.md), but it should be noted that it uses Latex for the equations.
